@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgltools.a CMakeFiles/gltools-static.dir/src/GLBatch.cpp.o CMakeFiles/gltools-static.dir/src/GLShaderManager.cpp.o CMakeFiles/gltools-static.dir/src/GLTools.cpp.o CMakeFiles/gltools-static.dir/src/GLTriangleBatch.cpp.o CMakeFiles/gltools-static.dir/src/math3d.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgltools.a

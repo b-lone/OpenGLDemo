@@ -1,0 +1,13 @@
+/usr/local/lib/libgltools.dylib
+/usr/local/lib/libgltools.a
+/usr/local/include/GLBatchBase.h
+/usr/local/include/GLBatch.h
+/usr/local/include/GLFrame.h
+/usr/local/include/GLFrustum.h
+/usr/local/include/GLGeometryTransform.h
+/usr/local/include/GLMatrixStack.h
+/usr/local/include/GLShaderManager.h
+/usr/local/include/GLTools.h
+/usr/local/include/GLTriangleBatch.h
+/usr/local/include/math3d.h
+/usr/local/include/StopWatch.h
